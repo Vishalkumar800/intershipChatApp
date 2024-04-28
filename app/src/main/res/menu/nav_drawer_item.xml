@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+
+    <item android:icon="@drawable/share"
+        android:id="@+id/share"
+        android:title="Share"/>
+
+    <item android:title="Logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_arrow_forward_ios_24"/>
+
+</menu>
